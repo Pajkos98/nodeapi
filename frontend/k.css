@@ -1,0 +1,15 @@
+html {
+    background-image: url("https://wallpaperaccess.com/full/5339975.jpg");
+    background-size: cover;
+    margin: auto;
+    
+}
+body {
+
+    background-color: lightblue;
+    width: 50%;    
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    opacity: 0.8;
+}
